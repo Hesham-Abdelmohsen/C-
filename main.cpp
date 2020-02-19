@@ -1,10 +1,4 @@
 
-
-                        ///  name: hesham abdelmohsen abdallah hassan
-
-                        ///    id: 20180330
-
-
 #include<iostream>
 #include<string>
 #include<vector>
